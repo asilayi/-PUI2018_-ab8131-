@@ -19,7 +19,6 @@ Group work with Jingtian Zhou(jz3525). He did the ANOVA test and Correlation tes
 
 !
 ### Task3: Reproduce the analysis of the Hard to Employ program in NY
-### By Hypothesis testing, I figured out whether the program has influence on participants' employment and the percentage of being convicted of a felony in the Recidivism (Years 1-3) after release. The method including Z-test and Chi-Sqaure test.
 
 ### https://github.com/asilayi/PUI2018_ab8131/blob/master/HW6_ab8131/effectivenes%20of%20NYC%20Post-Prison%20Employment%20Programs(1).ipynb
 
