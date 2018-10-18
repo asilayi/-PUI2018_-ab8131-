@@ -2,12 +2,6 @@
 ## Task1: Citibike Hypothesis Testing Review
 ### Create a pull request to provide some suggestions on my classmate Rufei Sheng(rs6431)'s Citibike project assignment. The pull request contains a CitibikeReview_ab8131.md. In this markdown profile, I provide some advice on code, statistical test method in the next step, and suggestions to improve variables.
 ### FKlink: https://github.com/asilayi/PUI2018_rs6431/blob/master/HW4_rs6431/CitibikeReview_ab8131.md
-### Task2：
-prognostic valid for identifying talents for potential players  | Players who reached APL1 had better scores in all motor test than the players who made it to the semi-professional or non-professional level  | 0.05  | [The influence of speed abilities and technical skills in early adolescence on adult success in soccer: A long-term prospective analysis using ANOVA and SEM approaches](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182211)  |
-
-![journal pone 0182211 g002](https://user-images.githubusercontent.com/10840545/47044980-a713ef80-d15f-11e8-820b-b85f08c26d16.PNG)
-
-### Correlation
 
 ## Assignment 2
 Group work with Asilayi Bahetibieke(ab8131), I did the ANOVA test and Correlation test while Asilayi finished the Logistic Regression test.
