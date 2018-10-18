@@ -4,7 +4,7 @@
 ### FKlink: https://github.com/asilayi/PUI2018_rs6431/blob/master/HW4_rs6431/CitibikeReview_ab8131.md
 
 ## Assignment 2
-Group work with Asilayi Bahetibieke(ab8131), I did the ANOVA test and Correlation test while Asilayi finished the Logistic Regression test.
+Group work with Jingtian Zhou(jz3525). He did the ANOVA test and Correlation test while I finished the Logistic Regression test.
 ### ANOVA
 | Statistical Analyses  | IV(s) | IV type(s) | DV(s) | DV type(s) | Control Var | Control Var type | Question to be answered | H0 | alpha | link to paper |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
