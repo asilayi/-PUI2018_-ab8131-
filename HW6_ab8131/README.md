@@ -10,4 +10,4 @@
 
 ### Task4: Tests of correlation using the scipy package with citibike data.
 
-### https://github.com
+### https://github.com/asilayi/PUI2018_ab8131/blob/master/HW6_ab8131/citibikes_compare_distributions.ipynb
