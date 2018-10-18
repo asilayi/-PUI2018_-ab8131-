@@ -3,7 +3,7 @@
 ### Create a pull request to provide some suggestions on my classmate Rufei Sheng(rs6431)'s Citibike project assignment. The pull request contains a CitibikeReview_ab8131.md. In this markdown profile, I provide some advice on code, statistical test method in the next step, and suggestions to improve variables.
 ### FKlink: https://github.com/asilayi/PUI2018_rs6431/blob/master/HW4_rs6431/CitibikeReview_ab8131.md
 
-## Assignment 2
+## Task 2
 Group work with Jingtian Zhou(jz3525). He did the ANOVA test and Correlation test while I finished the Logistic Regression test.
 ### ANOVA
 | Statistical Analyses  | IV(s) | IV type(s) | DV(s) | DV type(s) | Control Var | Control Var type | Question to be answered | H0 | alpha | link to paper |
