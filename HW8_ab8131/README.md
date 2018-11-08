@@ -5,4 +5,4 @@
       
 ## Task2：CitiBike Mini Project
 code link: 
-report link: 
+report link: https://www.authorea.com/users/249713/articles/336145-title
