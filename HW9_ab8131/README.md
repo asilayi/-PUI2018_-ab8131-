@@ -9,3 +9,5 @@
 #### link: https://github.com/asilayi/PUI2018_ab8131/blob/master/HW9_ab8131/HW9_Assignment3.ipynb
 ### Contributions
 #### This work are completed independently
+
+### A single 3-day (72 hours) exception is used in this homework.
