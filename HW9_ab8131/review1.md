@@ -1,3 +1,4 @@
+## Plot from Ross Alexander MacWhinney, ram844, RossMacW
 ![image](https://github.com/asilayi/PUI2018_ab8131/blob/master/HW9_ab8131/NYC_GHG.png)
 ## Clarity:
 #### Generally speaking, the plot is very easy to understand with the clear color transition. However, I suggest adding a colorbar at the upper left corner so that the reader could immediately realize the corresponding density percentage of each color. Besides, I'm very confused about the scale on X and Y axis. More details like labels are needed for the two axis so that readers could understand what those large numbers mean.
